@@ -61,7 +61,7 @@ uidai-aadhaar-enrolmnet-data-analysis/
 ---
 
 ##  Report
-- [Final Analysis Report (PDF)](Reports/UIDAI_AADHAR_HACKATHON_2026.pdf")
+- [Final Analysis Report (PDF)]([Reports/UIDAI_AADHAR_HACKATHON_2026.pdf](https://github.com/Cosmic-Sangam/uidai-aadhaar-enrolment-data-analysis/blob/main/Reports/UIDAI_AADHAR_HACKATHON_2026.pdf)")
 
 ---
 
